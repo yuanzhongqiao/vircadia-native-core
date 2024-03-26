@@ -1,64 +1,54 @@
-<p align="center"><a href="https://vircadia.com/"><img src="https://docs.vircadia.com/img/vircadia-banner.png" alt="Vircadia - Codename Athena" width="350"/></a></p>
-<h3 align="center"><a href="https://vircadia.com/">Website</a> | <a href="https://discordapp.com/invite/Pvx2vke">Discord</a></h3>
-<p align="center">
-    <a href="https://vircadia.com/contribute"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/vircadia/vircadia"></a>
-    <a href="https://github.com/vircadia/vircadia/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/vircadia/vircadia"></a>
-    <a href="https://github.com/vircadia/vircadia/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/vircadia/vircadia"></a>
-    <a href="https://www.apache.org/licenses/LICENSE-2.0"><img alt="Apache 2.0" src="https://img.shields.io/badge/license-Apache--2.0-%230A7BBB?style=flat"></a>
-    <a href="https://discordapp.com/invite/Pvx2vke"><img alt="Discord" src="https://img.shields.io/discord/564926326025224212?style=flat"></a>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto"><a href="https://vircadia.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/14c59d28ac8e3e1b37bf26f3612d1df827b34a6c04f0a8cece468cd4d5a542e8/68747470733a2f2f646f63732e76697263616469612e636f6d2f696d672f76697263616469612d62616e6e65722e706e67" alt="维卡迪亚 - 代号雅典娜" width="350" data-canonical-src="https://docs.vircadia.com/img/vircadia-banner.png" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h3 align="center" tabindex="-1" class="heading-element" dir="auto"><a href="https://vircadia.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|</font></font><a href="https://discordapp.com/invite/Pvx2vke" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不和谐</font></font></a></h3><a id="user-content-website--discord" class="anchor" aria-label="永久链接： 网站 |不和谐" href="#website--discord"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+    <a href="https://vircadia.com/contribute" rel="nofollow"><img alt="GitHub 贡献者" src="https://camo.githubusercontent.com/1ee9f8be460d106c52c2d65e69584b01a085f4b59aa64866c4ada13922da30cd/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f76697263616469612f7669726361646961" data-canonical-src="https://img.shields.io/github/contributors/vircadia/vircadia" style="max-width: 100%;"></a>
+    <a href="https://github.com/vircadia/vircadia/stargazers"><img alt="GitHub 星星" src="https://camo.githubusercontent.com/070ada0afb9efad79098ab841a062d9d70075588a51bffefe48101ddb641cb3e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f76697263616469612f7669726361646961" data-canonical-src="https://img.shields.io/github/stars/vircadia/vircadia" style="max-width: 100%;"></a>
+    <a href="https://github.com/vircadia/vircadia/network"><img alt="GitHub 分叉" src="https://camo.githubusercontent.com/83c132ac8b77a5732764913dd672237d85c711d80adc7235fd2aba8917af016e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f76697263616469612f7669726361646961" data-canonical-src="https://img.shields.io/github/forks/vircadia/vircadia" style="max-width: 100%;"></a>
+    <a href="https://www.apache.org/licenses/LICENSE-2.0" rel="nofollow"><img alt="阿帕奇2.0" src="https://camo.githubusercontent.com/2f7db488da4c978aae9f22e6490ded8840caeb6e24f06639390d9b853f258753/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4170616368652d2d322e302d2532333041374242423f7374796c653d666c6174" data-canonical-src="https://img.shields.io/badge/license-Apache--2.0-%230A7BBB?style=flat" style="max-width: 100%;"></a>
+    <a href="https://discordapp.com/invite/Pvx2vke" rel="nofollow"><img alt="不和谐" src="https://camo.githubusercontent.com/f6a58c9983ac31b4527205036f30ab5483169822690e5f6a427a67466995a167/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3536343932363332363032353232343231323f7374796c653d666c6174" data-canonical-src="https://img.shields.io/discord/564926326025224212?style=flat" style="max-width: 100%;"></a>
 </p>
-
-### What is this?
-
-Vircadia™ is an open source agent-based metaverse ecosystem that excels in mass human and agent (AI) based immersive worlds.
-
-* Mobile, desktop, and VR support through Web
-* Hundreds of agents simultaneously
-* Full-body (Human or Agents)
-* Script with JavaScript & TypeScript (coming soon)
-* Visual scripting (coming soon)
-* Full world editor
-* 4096km³ world space in a server
-* Fully self-hosted
-* Apache 2.0
-* And more...
-
-### Supporters of the Vircadia Project
-
-Vircadia is sponsored by companies, organizations, and governments, some of which can be found [here](https://vircadia.com/#partners).
-
-#### Premiere Partners
-
-<p align="center">
-  <table>
-    <tr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是什么？</font></font></h3><a id="user-content-what-is-this" class="anchor" aria-label="永久链接：这是什么？" href="#what-is-this"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vircadia™ 是一个基于代理的开源元宇宙生态系统，在基于大规模人类和代理 (AI) 的沉浸式世界中表现出色。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过 Web 支持移动、桌面和 VR</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数百个代理同时进行</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全身（人类或特工）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 JavaScript 和 TypeScript 编写脚本（即将推出）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可视化脚本（即将推出）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">完整世界编辑器</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">服务器中的 4096 平方公里世界空间</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">完全自托管</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇2.0</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和更多...</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">维尔卡迪亚项目的支持者</font></font></h3><a id="user-content-supporters-of-the-vircadia-project" class="anchor" aria-label="永久链接： Vircadia 项目的支持者" href="#supporters-of-the-vircadia-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vircadia 由公司、组织和政府赞助，其中一些可以</font></font><a href="https://vircadia.com/#partners" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">找到。</font></font></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">首映合作伙伴</font></font></h4><a id="user-content-premiere-partners" class="anchor" aria-label="永久链接：首映合作伙伴" href="#premiere-partners"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+  </p><table>
+    <tbody><tr>
       <td align="center" width="50%">
-        <a href="https://www.t-systems.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/T-SYSTEMS-LOGO2013.svg/2560px-T-SYSTEMS-LOGO2013.svg.png" style="width:100%"></a>
+        <a href="https://www.t-systems.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/58b755017a2dfae70f61b0e3383cd991f1ee9560b6d66b8876fab883ec0b7874/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30612f542d53595354454d532d4c4f474f323031332e7376672f3235363070782d542d53595354454d532d4c4f474f323031332e7376672e706e67" style="width: 100%; max-width: 100%;" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/T-SYSTEMS-LOGO2013.svg/2560px-T-SYSTEMS-LOGO2013.svg.png"></a>
       </td>
       <td align="center" width="50%">
-        <a href="https://ua92.ac.uk/about-ua92/our-founders/class-of-92/"><img src="https://ua92.ac.uk/wp-content/uploads/2022/03/og.png" style="width:100%"></a>
-    </tr>
+        <a href="https://ua92.ac.uk/about-ua92/our-founders/class-of-92/" rel="nofollow"><img src="https://camo.githubusercontent.com/730b660275212b1cc74df71ac48cb7a29b73dcefca3f1d9289853d5bedbaaf40/68747470733a2f2f756139322e61632e756b2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f6f672e706e67" style="width: 100%; max-width: 100%;" data-canonical-src="https://ua92.ac.uk/wp-content/uploads/2022/03/og.png"></a>
+    </td></tr>
       <tr>
       <td align="center" width="50%">
-        <a href="https://mundolatas.com/"><img src="https://mundolatas.com/wp-content/uploads/mundolatas-se-consolida-como-portal-web-mas-visitado-de-la-industria-del-envase-metalico.jpg" style="width:100%"></a>
+        <a href="https://mundolatas.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/76e903a0487c2f88d31f90bc2ed153cae9bdfc98757962f54dc2259b92af5b7a/68747470733a2f2f6d756e646f6c617461732e636f6d2f77702d636f6e74656e742f75706c6f6164732f6d756e646f6c617461732d73652d636f6e736f6c6964612d636f6d6f2d706f7274616c2d7765622d6d61732d766973697461646f2d64652d6c612d696e647573747269612d64656c2d656e766173652d6d6574616c69636f2e6a7067" style="width: 100%; max-width: 100%;" data-canonical-src="https://mundolatas.com/wp-content/uploads/mundolatas-se-consolida-como-portal-web-mas-visitado-de-la-industria-del-envase-metalico.jpg"></a>
       </td>
     </tr>
-  </table>
-</p>
-
-### What is an "agent"?
-
-An agent is an AI being that shares the same space as users, interacting, speaking, and experiencing the world. They can be used for simple companionship or training and gameplay opportunities. Vircadia excels at the deployment of agents en-masse to allow in a full sandbox experience.
-
-### Support
-
-If you need help integrating or deploying Vircadia for your company / organization, please [reach out](https://vircadia.com/#contact) to us.
-
-### Architecture and Documentation
-
-If you would like to learn more about the architecture and the various components in the ecosystem, visit the developer documentation. If you want documentation for general use and to pass onto your users, visit the user documentation.
-
-- [Developer Documentation](https://docs.vircadia.dev/)
-- [User Documentation](https://docs.vircadia.com/)
-
-![Alt](https://repobeats.axiom.co/api/embed/435b07a47586e875aa4842cfa5387e65b389d8cf.svg "Repobeats analytics image")
+  </tbody></table>
+<p dir="auto"></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">什么是“代理人”？</font></font></h3><a id="user-content-what-is-an-agent" class="anchor" aria-label="永久链接：什么是“代理人”？" href="#what-is-an-agent"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代理是一种人工智能，与用户共享同一空间，进行交互、说话和体验世界。它们可用于简单的陪伴或培训和游戏机会。 Vircadia 擅长集体部署代理，以实现完整的沙箱体验。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持</font></font></h3><a id="user-content-support" class="anchor" aria-label="永久链接： 支持" href="#support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您需要帮助为您的公司/组织集成或部署 Vircadia，请</font></font><a href="https://vircadia.com/#contact" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">联系</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">架构和文档</font></font></h3><a id="user-content-architecture-and-documentation" class="anchor" aria-label="永久链接：架构和文档" href="#architecture-and-documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想了解有关生态系统中的架构和各种组件的更多信息，请访问开发人员文档。如果您需要通用文档并传递给您的用户，请访问用户文档。</font></font></p>
+<ul dir="auto">
+<li><a href="https://docs.vircadia.dev/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发者文档</font></font></a></li>
+<li><a href="https://docs.vircadia.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户文档</font></font></a></li>
+</ul>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/18b0d93b238c5418c63703975d1edb19f8a5807b0916d19bcaa92be6a798028a/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f343335623037613437353836653837356161343834326366613533383765363562333839643863662e737667"><img src="https://camo.githubusercontent.com/18b0d93b238c5418c63703975d1edb19f8a5807b0916d19bcaa92be6a798028a/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f343335623037613437353836653837356161343834326366613533383765363562333839643863662e737667" alt="替代" title="Repobeats 分析图像" data-canonical-src="https://repobeats.axiom.co/api/embed/435b07a47586e875aa4842cfa5387e65b389d8cf.svg" style="max-width: 100%;"></a></p>
+</article></div>
